@@ -1,0 +1,20 @@
+
+
+{
+  "name": "akieni-exos",
+  "version": "1.0.0",
+  "description": "Bienvenue dans **DevSetup**, un projet de préparation de l'environnement de développement destiné aux débutants. Ce dépôt regroupe toutes les étapes nécessaires pour mettre en place un environnement de travail moderne avec **Visual Studio Code**, **Git** et **GitHub**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
