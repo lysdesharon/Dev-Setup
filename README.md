@@ -1,10 +1,9 @@
-# 🚀 DevSetup
+DevSetup
 
 Bienvenue dans **DevSetup**, un projet de préparation de l'environnement de développement destiné aux débutants. Ce dépôt regroupe toutes les étapes nécessaires pour mettre en place un environnement de travail moderne avec **Visual Studio Code**, **Git** et **GitHub**.
 
----
 
-## 📋 Objectifs du projet
+Objectifs du projet
 
 À travers ce projet, vous apprendrez à :
 
@@ -15,9 +14,9 @@ Bienvenue dans **DevSetup**, un projet de préparation de l'environnement de dé
 * Organiser correctement un projet.
 * Rédiger une documentation claire avec Markdown.
 
----
 
-## 🛠️ Technologies utilisées
+
+ Technologies utilisées
 
 * Visual Studio Code
 * Git
@@ -26,9 +25,9 @@ Bienvenue dans **DevSetup**, un projet de préparation de l'environnement de dé
 
 ---
 
-## 📂 Structure du projet
+Structure du projet
 
-```text
+text
 DevSetup/
 │
 ├── README.md
@@ -39,11 +38,9 @@ DevSetup/
     ├── git.md
     ├── vscode.md
     └── github.md
-```
 
----
 
-## 📌 Prérequis
+Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé :
 
@@ -51,23 +48,21 @@ Avant de commencer, assurez-vous d'avoir installé :
 * Git
 * Un compte GitHub
 
----
+Installation
 
-## ⚙️ Installation
-
-### 1. Cloner le dépôt
+ 1. Cloner le dépôt
 
 ```bash
 git clone https://github.com/VOTRE_USERNAME/DevSetup.git
 ```
 
-### 2. Accéder au dossier
+2. Accéder au dossier
 
 ```bash
 cd DevSetup
 ```
 
-### 3. Ouvrir le projet avec VS Code
+Ouvrir le projet avec VS Code
 
 ```bash
 code .
@@ -75,21 +70,21 @@ code .
 
 ---
 
-## 📖 Commandes Git essentielles
+Commandes Git essentielles
 
-### Initialiser un dépôt
+Initialiser un dépôt
 
 ```bash
 git init
 ```
 
-### Vérifier l'état du projet
+Vérifier l'état du projet
 
 ```bash
 git status
 ```
 
-### Ajouter les fichiers
+Ajouter les fichiers
 
 ```bash
 git add .
@@ -121,7 +116,7 @@ git push -u origin main
 
 ---
 
-## 🌿 Gestion des branches (Bonus)
+ Gestion des branches (Bonus)
 
 Créer une branche de développement
 
@@ -143,7 +138,7 @@ git merge dev
 
 ---
 
-## 📚 Notes
+Notes
 
 Le dossier **notes/** contient plusieurs fichiers expliquant :
 
@@ -152,8 +147,7 @@ Le dossier **notes/** contient plusieurs fichiers expliquant :
 * Les bases de GitHub.
 
 ---
-
-## 📦 Bonus
+Bonus
 
 Le projet peut également contenir :
 
@@ -164,7 +158,7 @@ Le projet peut également contenir :
 
 ---
 
-## 🎯 Compétences acquises
+Compétences acquises
 
 À la fin de ce projet, vous serez capable de :
 
@@ -176,16 +170,15 @@ Le projet peut également contenir :
 
 ---
 
-## 📄 Licence
+Licence
 
 Ce projet est destiné à un usage éducatif et peut être librement utilisé pour apprendre Git, GitHub et Visual Studio Code.
 
 ---
 
-## 👨‍💻 Auteur
+Auteur
 
 **Lys de Sharon**
 
 Passionné(e) par le développement web, les technologies modernes et l'apprentissage continu.
-
-⭐ N'hésitez pas à cloner ce dépôt, à expérimenter et à contribuer pour améliorer vos compétences !
+N'hésitez pas à cloner ce dépôt, à expérimenter et à contribuer pour améliorer vos compétences !
