@@ -1,2 +1,15 @@
-..
-node_modules
+# Dépendances Node.js
+node_modules/
+
+# Variables d'environnement
+.env
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers de VS Code (optionnel)
+.vscode/

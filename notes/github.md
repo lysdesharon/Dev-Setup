@@ -1,5 +1,3 @@
-Créer un repository
+GitHub
 
-Cloner un projet
-
-Pousser du code
+GitHub est une plateforme d'hébergement de code basée sur Git. Elle permet de sauvegarder des projets en ligne, de suivre les différentes versions du code, de collaborer avec d'autres développeurs et de partager ses réalisations. Grâce à GitHub, il est possible de publier des projets, de gérer les modifications via les commits et les branches, et de travailler en équipe de manière efficace.

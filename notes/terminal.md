@@ -1,0 +1,3 @@
+Le Terminal
+
+Le terminal est une interface en ligne de commande qui permet d'interagir directement avec le système d'exploitation. Il est utilisé pour exécuter des commandes, créer des fichiers et des dossiers, lancer des programmes, gérer des projets Git et utiliser des outils comme Node.js. Bien que son utilisation puisse sembler complexe au début, il est un outil essentiel pour automatiser des tâches et travailler efficacement en développement.
